@@ -6,7 +6,7 @@
 
 - 🌍 **Location:** Providence, RI
 - 🎓 **Studying @:** Brown University
-- 🚀 **Role:** Specializing in AI & ML, interest in quant
+- 🚀 **Interests:** Specializing in AI & ML, interest in quant
 
 
 ## 💡 Highlight Projects
