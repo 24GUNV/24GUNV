@@ -31,7 +31,7 @@
 </a>
 
 ## 💻 Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,pytorch,tensorflow,react,nodejs,aws,arduino,raspberrypi,ubuntu,git" />
+<img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,aws,arduino,raspberrypi,ubuntu,git" />
 
 ## 🌟 Let’s Connect!
 
